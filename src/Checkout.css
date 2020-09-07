@@ -2,10 +2,10 @@
 /*  */
 
 .checkout {
-  /* display: flex;
+  display: flex;
   padding: 20px;
   height: max-content;
-  background-color: #fff; */
+  background-color: #fff;
 }
 
 .checkout__title {
